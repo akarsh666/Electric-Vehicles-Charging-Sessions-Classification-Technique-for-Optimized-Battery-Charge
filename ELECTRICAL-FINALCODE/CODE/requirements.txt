@@ -1,0 +1,6 @@
+pandas
+numpy
+python==3.9.18
+matplotlib
+seaborn
+pickel
